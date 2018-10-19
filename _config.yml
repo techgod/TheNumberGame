@@ -1,0 +1,5 @@
+theme: jekyll-theme-midnight
+logo : ic_launcher-web.png
+show_downloads: false
+github:
+  repository_url: www.google.com
