@@ -1,4 +1,4 @@
-![logo](/assets/logo_github.png)
+![logo](/assets/logo_github_2.png)
 # The Number Game
 
 ## Privacy Policy
