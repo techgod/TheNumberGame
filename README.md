@@ -3,6 +3,8 @@
 
 ## Privacy Policy
 
+### Last Updated 20th October 2018
+
 Yash Pradhan built the The Number Game app as a Free app. This SERVICE is provided by Yash Pradhan at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
